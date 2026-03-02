@@ -83,7 +83,7 @@
   <img height="200" src="https://media.gettyimages.com/id/2155639368/photo/london-england-nacho-fernandez-of-real-madrid-lifts-the-uefa-champions-league-trophy-after.jpg?s=612x612&w=0&k=20&c=bwHgKnn-rXaoz31zefYfsBGazWVuqi4UIqA4L5IaeYo="  />
 </div>
 
-<br><br>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake-dark.svg">
@@ -91,7 +91,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wira0509/Wira0509/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Wira0509.Wira0509&"  />
