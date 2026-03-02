@@ -2,7 +2,7 @@
 
 ---
 
-## Social Media
+##### Social Media
 
 <div align="left">
   <a href="www.linkedin.com/in/wiraharipratama" target="_blank">
@@ -21,7 +21,7 @@
 
 ---
 
-## Tech Stack & Tools
+##### Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -69,7 +69,7 @@
 
 ---
 
-## Stats Github
+##### Stats Github
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Wira0509&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
