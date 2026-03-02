@@ -1,6 +1,6 @@
 ## About me
 
-<br>
+---
 
 ## Social Media
 
@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<br>
+---
 
 ## Tech Stack & Tools
 
@@ -67,7 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<br>
+---
 
 ## Stats Github
 
@@ -77,7 +77,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wira0509&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<br>
+---
 
 <div align="center">
   <img height="200" src="https://media.gettyimages.com/id/2155639368/photo/london-england-nacho-fernandez-of-real-madrid-lifts-the-uefa-champions-league-trophy-after.jpg?s=612x612&w=0&k=20&c=bwHgKnn-rXaoz31zefYfsBGazWVuqi4UIqA4L5IaeYo="  />
